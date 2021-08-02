@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-08-02 18:00:00+09:00",
+        "last": "2021-08-02 19:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-02 16:36:27+09:00",
+        "last": "2021-08-02 19:42:45+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-08-02 15:47:09+09:00",
+        "last": "2021-08-02 20:05:43+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
