@@ -53,7 +53,7 @@ today=datetime.date.today()
 oneday=datetime.timedelta(days=1) 
 yesterday=today-oneday
 
-tweetText = '本日' + str(yesterday.month) + '/' + str(yesterday.day + 1) +'の滋賀県コロナ情報まとめ 1\n\n'\
+tweetText = '昨日' + str(yesterday.month) + '/' + str(yesterday.day) +'の滋賀県コロナ情報まとめ 1\n\n'\
     + '陽性者数の内訳と陽性確認者数推移カレンダー、サイト開設から現在までの推移を表示しています。\n\n'\
     + '#滋賀県 #コロナ #滋賀県コロナ #コロナウィルス\n\n'\
     + '詳しく見たい方はこちら↓\n'\
@@ -72,8 +72,8 @@ for image in [join(dirname(__file__), 'tmp/dataWrapTop_div.png'),join(dirname(__
 
 my_status = api.update_status(status = tweetText, media_ids = media_ids)
 
-tweetText = '本日' + str(yesterday.month) + '/' + str(yesterday.day + 1) +'の滋賀県コロナ情報まとめ 2\n\n'\
-    + '本日のPCR検査の情報や病床入院数に関する情報です。\n'\
+tweetText = '昨日' + str(yesterday.month) + '/' + str(yesterday.day) +'の滋賀県コロナ情報まとめ 2\n\n'\
+    + '昨日のPCR検査の情報や病床入院数に関する情報です。\n'\
     + '#滋賀県 #コロナ #滋賀県コロナ #コロナウィルス\n'\
     + '詳しく見たい方はこちら↓\n'\
     + 'https://stopcovid19-shiga.jp'
