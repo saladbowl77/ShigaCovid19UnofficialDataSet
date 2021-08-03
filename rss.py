@@ -60,7 +60,7 @@ def tweetNewRss(rss,rssDate,cityNameEN):
     tweetText = cityName[cityNameEN] + "からのお知らせ\n" + rss.title + '\n' + rss.link + '\n サイト更新日 : ' + rssDate.strftime('%Y年%m月%d日 %H時%M分')
 
     print(tweetText)
-    api.update_status(tweetText)
+    #api.update_status(tweetText)
 
 def lineRSS(rss,rssDate,cityNameEN):
     cityName = {
