@@ -112,6 +112,7 @@ for name in rssArr1:
     feed = feedparser.parse(jsonData[name]['url'], response_headers={"content-type": "text/xml; charset=utf-8"})
     lastDate = parse(str(jsonData[name]['last']))
     nowDate = parse(str(datetime.now(JST)))
+    lastDate30min = parse(str(datetime.now(JST) - timedelta(hours=1)))
     if name in ["toyosato_emergency","taga_emergency"]:
         feedsArr = feed.entries
     else:
@@ -121,7 +122,7 @@ for name in rssArr1:
             rssDate = parse(rss.published)
         else:
             rssDate = parse(rss.date)
-        if nowDate > rssDate > lastDate:
+        if nowDate > rssDate > lastDate30min:
             if jsonData[name]['word']:
                 if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
                     tweetNewRss(rss,rssDate,name)
