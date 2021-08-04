@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-08-04 14:46:00+09:00",
+        "last": "2021-08-04 15:32:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-08-04 11:44:59+09:00",
+        "last": "2021-08-04 15:39:09+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-08-01 13:02:51+09:00",
+        "last": "2021-08-04 16:09:36+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
