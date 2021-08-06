@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-08-06 18:00:00+09:00",
+        "last": "2021-08-06 19:32:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -16,12 +16,12 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-08-06 18:51:36+09:00",
+        "last": "2021-08-06 20:05:14+09:00",
         "word": false
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-08-06 08:00:00+00:00",
+        "last": "2021-08-06 11:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-06 17:37:31+09:00",
+        "last": "2021-08-06 19:35:14+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-08-06 16:30:23+09:00",
+        "last": "2021-08-06 19:49:07+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
