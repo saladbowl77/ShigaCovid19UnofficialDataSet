@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-08-06 12:17:14+09:00",
+        "last": "2021-08-11 18:49:01+09:00",
         "word": false
     },
     "otsuI": {
@@ -46,12 +46,12 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-08-10 19:00:00+09:00",
+        "last": "2021-08-11 19:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-08-10 21:18:11+09:00",
+        "last": "2021-08-11 19:10:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
