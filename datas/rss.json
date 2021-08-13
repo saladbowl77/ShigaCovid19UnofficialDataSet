@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-08-13 08:00:00+00:00",
+        "last": "2021-08-13 09:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-08-13 13:00:00+09:00",
+        "last": "2021-08-13 17:53:44+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-08-12 18:00:00+09:00",
+        "last": "2021-08-13 18:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-08-13 16:30:32+09:00",
+        "last": "2021-08-13 18:14:50+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
