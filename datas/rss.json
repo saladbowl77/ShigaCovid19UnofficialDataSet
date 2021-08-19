@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-08-18 18:00:00+09:00",
+        "last": "2021-08-19 19:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-08-19 15:49:44+09:00",
+        "last": "2021-08-19 19:12:33+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
