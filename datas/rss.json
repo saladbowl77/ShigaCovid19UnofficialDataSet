@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-19 14:22:09+09:00",
+        "last": "2021-08-19 14:31:23+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-08-19 13:58:54+09:00",
+        "last": "2021-08-19 14:54:10+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-08-19 10:34:10+09:00",
+        "last": "2021-08-19 14:49:30+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-08-19 13:00:00+09:00",
+        "last": "2021-08-19 15:29:34+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
