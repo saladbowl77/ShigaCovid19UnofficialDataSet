@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-08-20 10:30:41+09:00",
+        "last": "2021-08-23 19:42:32+09:00",
         "word": false
     },
     "otsuI": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-08-23 00:00:00+09:00",
+        "last": "2021-08-23 19:44:29+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-23 16:01:26+09:00",
+        "last": "2021-08-23 20:01:31+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-08-23 15:00:00+09:00",
+        "last": "2021-08-23 19:34:48+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
