@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-24 13:00:00+09:00",
+        "last": "2021-08-24 17:54:51+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-08-23 19:44:29+09:00",
+        "last": "2021-08-24 17:54:57+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,17 +61,17 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-08-24 14:01:45+09:00",
+        "last": "2021-08-24 17:42:21+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-24 15:18:38+09:00",
+        "last": "2021-08-24 17:38:44+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-08-24 15:22:09+09:00",
+        "last": "2021-08-24 17:59:23+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-08-24 11:16:59+09:00",
+        "last": "2021-08-24 18:12:29+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-08-24 08:46:03+09:00",
+        "last": "2021-08-24 18:05:23+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
