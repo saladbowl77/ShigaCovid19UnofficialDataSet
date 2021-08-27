@@ -36,7 +36,7 @@
     },
     "ritto": {
         "url": "http://www.city.ritto.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
-        "last": "2021-08-27 13:35:22+09:00",
+        "last": "2021-08-27 20:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "yasu": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-08-27 19:23:56+09:00",
+        "last": "2021-08-27 20:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-27 19:10:28+09:00",
+        "last": "2021-08-27 19:46:19+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
