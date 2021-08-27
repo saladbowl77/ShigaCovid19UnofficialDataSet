@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-08-27 00:00:00+00:00",
+        "last": "2021-08-27 03:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -51,12 +51,12 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-08-26 20:50:00+09:00",
+        "last": "2021-08-27 12:05:19+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-08-26 15:00:00+09:00",
+        "last": "2021-08-27 12:00:01+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-08-26 19:33:11+09:00",
+        "last": "2021-08-27 11:56:04+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-08-27 11:19:02+09:00",
+        "last": "2021-08-27 12:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
